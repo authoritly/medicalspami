@@ -1623,6 +1623,18 @@ a {
 .cid-ub3PqRQ7vX .mbr-section-title {
   color: #000000;
 }
+#custom-html-q {
+  /* Type valid CSS here */
+}
+#custom-html-q div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-q p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-ub3QGemDth {
   padding-top: 8rem;
   padding-bottom: 8rem;
