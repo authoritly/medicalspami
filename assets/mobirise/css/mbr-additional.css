@@ -1502,6 +1502,19 @@ a {
 .cid-ub2B4N9zKo .iconfont-wrapper {
   color: #444444;
 }
+.cid-ubpQcHEVP3 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-ubpQcHEVP3 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-ubpQcHEVP3 .mbr-section-title,
+.cid-ubpQcHEVP3 .mbr-section-subtitle,
+.cid-ubpQcHEVP3 .mbr-text {
+  text-align: center;
+}
 .cid-ub2B4NbBNQ {
   padding-top: 5rem;
   padding-bottom: 5rem;
